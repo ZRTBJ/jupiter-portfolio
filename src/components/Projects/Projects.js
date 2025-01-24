@@ -36,7 +36,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
           
-          <a target='_blank' href="https://dehive.finance/" style={{textDecoration: 'none'}}>
+          <a target='_blank' rel="noreferrer" href="https://dehive.finance/" style={{textDecoration: 'none'}}>
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
@@ -49,7 +49,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-          <a target='_blank' href="https://www.orderbook.io/" style={{textDecoration: 'none'}}>
+          <a target='_blank' rel="noreferrer" href="https://www.orderbook.io/" style={{textDecoration: 'none'}}>
             <ProjectCard
               imgPath={editor}
               isBlog={false}
@@ -62,7 +62,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-          <a target='_blank' href="https://leaguedao.com/nomo-football" style={{textDecoration: 'none'}}>
+          <a target='_blank' rel="noreferrer" href="https://leaguedao.com/nomo-football" style={{textDecoration: 'none'}}>
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
@@ -75,7 +75,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-             <a target='_blank' href="https://moola.market/" style={{textDecoration: 'none'}}>
+             <a target='_blank' rel="noreferrer" href="https://moola.market/" style={{textDecoration: 'none'}}>
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
@@ -86,7 +86,7 @@ function Projects() {
           </Col>
 
           <Col md={4} className="project-card">
-          <a target='_blank' href="https://satoshisync.com/" style={{textDecoration: 'none'}}>
+          <a target='_blank' rel="noreferrer" href="https://satoshisync.com/" style={{textDecoration: 'none'}}>
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
