@@ -24,7 +24,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <a
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               href="https://www.tabla.is/"
               style={{ textDecoration: "none" }}
             >
@@ -42,6 +42,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <a
               target="_blank"
+              rel="noopener noreferrer"
               href="https://dehive.finance/"
               style={{ textDecoration: "none" }}
             >
@@ -59,6 +60,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <a
               target="_blank"
+              rel="noopener noreferrer"
               href="https://www.orderbook.io/"
               style={{ textDecoration: "none" }}
             >
@@ -76,6 +78,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <a
               target="_blank"
+              rel="noopener noreferrer"
               href="https://leaguedao.com/nomo-football"
               style={{ textDecoration: "none" }}
             >
@@ -93,7 +96,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <a
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               href="https://moola.market/"
               style={{ textDecoration: "none" }}
             >
@@ -109,6 +112,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <a
               target="_blank"
+              rel="noopener noreferrer"
               href="https://satoshisync.com/"
               style={{ textDecoration: "none" }}
             >
