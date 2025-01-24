@@ -22,7 +22,7 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
-          <a target='_blank' href="https://www.tabla.is/" style={{textDecoration: 'none'}}>
+          <a target='_blank' rel="noreferrer"  href="https://www.tabla.is/" style={{textDecoration: 'none'}}>
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
